@@ -24,10 +24,10 @@ Once all packages are installed, you can then run the following commands to get 
 Run Test    
 `npm run test`     
 
-Seed DB;   
+Seed DB   
 `npm run seeds`     
 
-Start Server;     
+Start Server     
 `npm start`     
 
 ## Preview
