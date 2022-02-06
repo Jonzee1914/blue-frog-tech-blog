@@ -32,7 +32,7 @@ Start Server;
 
 ## Preview
 
-[![](https://github.com/Jonzee1914/GOAT-maker-note-taker/blob/main/blue-frog-demo.gif?raw=true)](https://blue-frog-tech-blog.herokuapp.com/)
+[![](https://github.com/Jonzee1914/blue-frog-tech-blog/blob/main/blu-frog-demo.gif?raw=true)](https://blue-frog-tech-blog.herokuapp.com/)
 
 ## License
 
