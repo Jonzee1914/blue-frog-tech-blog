@@ -1,19 +1,19 @@
 const { Post } = require('../models');
 
 const postData = [{
-        title: 'Something Techy',
-        content: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+        title: 'New Stuff For discord',
+        content: 'Discord will start testing a handful of new features',
         user_id: 1
 
     },
     {
-        title: 'Also Something Techy',
-        content: 'Amet aliquam id diam maecenas ultricies mi eget mauris pharetra.',
+        title: 'Why your warpdrive might be offline.',
+        content: `There's a quantum breakdown in the nanowave bubble shift recorder. You need to realign the gluon housing.`,
         user_id: 2
     },
     {
         title: 'Why All the Tech Stuff?',
-        content: 'Ut etiam sit amet nisl purus in mollis.',
+        content: `Because you can't be nerdy without it.`,
         user_id: 3
     }
 ];
