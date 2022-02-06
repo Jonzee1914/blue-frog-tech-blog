@@ -1,0 +1,20 @@
+{
+  "name": "blue-frog-tech-blog",
+  "version": "1.0.0",
+  "description": "tech-blog",
+  "main": "server.js",
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonzee1914/blue-frog-tech-blog.git"
+  },
+  "author": "Erik Jones",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jonzee1914/blue-frog-tech-blog/issues"
+  },
+  "homepage": "https://github.com/Jonzee1914/blue-frog-tech-blog#readme"
+}
