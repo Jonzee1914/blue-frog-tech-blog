@@ -32,7 +32,7 @@ Start Server;
 
 ## Credits
 
-[![](https://github.com/Jonzee1914/GOAT-maker-note-taker/blob/main/GOAT-Maker-Note-Taker.gif?raw=true)](https://goat-maker-note-taker.herokuapp.com/)
+[![](https://github.com/Jonzee1914/GOAT-maker-note-taker/blob/main/blue-frog-demo.gif?raw=true)](https://blue-frog-tech-blog.herokuapp.com/)
 
 ## License
 
