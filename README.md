@@ -30,7 +30,7 @@ Seed DB;
 Start Server;     
 `npm start`     
 
-## Credits
+## Preview
 
 [![](https://github.com/Jonzee1914/GOAT-maker-note-taker/blob/main/blue-frog-demo.gif?raw=true)](https://blue-frog-tech-blog.herokuapp.com/)
 
